@@ -87,14 +87,6 @@ h1 {
 li {
   margin-bottom: 10px;
 }
-.add-task,
-.add-section {
-  caret-color: transparent; /* nasconde il cursore */
-}
-.add-task:focus,
-.add-section:focus {
-  outline: none;
-}
 .check-v {
   color: green;
   margin-right: 6px;
